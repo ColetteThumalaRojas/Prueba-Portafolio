@@ -7,8 +7,16 @@ body{
 h2{
   font-weight: 500;
   color: #00adb4;
+  text-align: center;
 }
-
+h5{
+  color: #D62C68;
+  font-weight: 500;
+}
+.bgfuchia{
+  background-color:  #D62C68;
+  color: white;
+}
 .fuchia{
   color: #D62C68;
   font-weight: 700;
