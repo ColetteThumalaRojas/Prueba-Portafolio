@@ -1,6 +1,19 @@
 body{
   font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  color: #333333;
 }
+
+h2{
+  font-weight: 500;
+  color: #00adb4;
+}
+
+.fuchia{
+  color: #D62C68;
+  font-weight: 700;
+}
+
 .navbar{
-  background-color: #16a9b0!important;
+  background-color: #00adb4!important;
 }
