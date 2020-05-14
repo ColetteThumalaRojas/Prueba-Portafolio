@@ -3,7 +3,9 @@ body{
   font-weight: 400;
   color: #333333;
 }
-
+h1{
+  font-weight: 500;
+}
 h2{
   font-weight: 500;
   color: #00adb4;
@@ -13,6 +15,14 @@ h5{
   color: #D62C68;
   font-weight: 500;
 }
+header{
+  background-image: url(../img/portada.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 20em;
+  background-position: center;
+}
+
 .bgfuchia{
   background-color:  #D62C68;
   color: white;
